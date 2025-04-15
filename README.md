@@ -17,5 +17,4 @@ A dynamic room allotment and booking system using advanced data structures like 
 
 - Email: sachinlokhande4154@gmail.com *(update if different)*
 - LinkedIn: [linkedin.com/in/sachin-lokhande-49a690193](https://linkedin.com/in/sachin-lokhande-49a690193)
-- GitHub: [github.com/sachinlokhande4154](https://github.com/sachinlokhande4154)
-- 
+- GitHub: [github.com/sachinlokhande4154](https://github.com/sachinlokhande4154) 
