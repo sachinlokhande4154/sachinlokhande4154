@@ -1,25 +1,41 @@
-# Hi there! I'm Sachin Lokhande 👋
+# 👋 Hi there, I'm Sachin Lokhande
 
-I'm a passionate software developer with a focus on **C++**, **DSA**, **JAVA**, **SQL** and **System Design**. This is my GitHub portfolio where I showcase my personal and professional projects.
-
----
-
-## 🚀 Projects
-
-### 1. Room Allotment and Booking System (CLI) – (C++ Project)(https://github.com/sachinlokhande4154/RoomBookingSystem)
-A dynamic room allotment and booking system using advanced data structures like hash maps and priority queues. Includes VIP waitlist management and cancellation handling.
-
-> **Tech Stack:** C++, STL, DSA (vector, unorered map), windows CLI(command prompt), Visual Studio
-
-### 2. 📚 Library Management System (C++)(https://github.com/sachinlokhande4154/LibraryManagementSystem_CPP)
-A full-featured CLI system built in C++ to manage book allotments and borrow/return logic using advanced DSA.
-
-> **Tech Stack:** C++, STL, DSA (vector, unorered map), windows CLI(command prompt), Visual Studio
+💻 I’m a passionate Software Developer with a focus on building clean, real-world projects using **C++**, **Java**, and **SQL**.  
+🔧 I'm also exploring **Linux** and **version control** with Git & GitHub.
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Tech Stack
 
-- Email: sachinlokhande4154@gmail.com
-- LinkedIn: [linkedin.com/in/sachin-lokhande-49a690193](https://linkedin.com/in/sachin-lokhande-49a690193)
-- GitHub: [github.com/sachinlokhande4154](https://github.com/sachinlokhande4154) 
+- 🚀 **Languages**: C++, Java, SQL
+- 💾 **Databases**: MySQL, oracle, SQLite (basics)
+- 🐧 **Platforms**: windows, Linux (Ubuntu, Shell Scripting)
+- 🔧 **Tools**: Git, GitHub, Visual Studio, VS Code, Eclipse
+- 📦 **DSA**: STL (vector, map, unordered_map), OOP, Recursion, Sorting/Searching
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [Room Allotment & Booking System (C++)](https://github.com/sachinlokhande4154/RoomBookingSystem_CLI)
+> A fully functional command-line application to manage room bookings using C++, DSA, and a colorized Windows CLI.
+
+### 🔹 [Library Management System (C++)](https://github.com/sachinlokhande4154/LibraryManagementSystem_CPP)
+> A CLI-based system for managing books, members, and borrow/return records using advanced STL concepts and struct/class.
+
+---
+
+## 📈 What I’m Learning Now
+- 🐧 Shell scripting & Linux fundamentals
+- 🧠 Java collections and backend logic
+- ⚙️ GitHub collaboration and open-source contribution
+
+---
+
+## 📬 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sachin-lokhande-49a690193)
+- 💻 [GitHub](https://github.com/sachinlokhande4154)
+
+---
+
+⭐ If you like my projects, give them a star and let's connect!
