@@ -9,7 +9,7 @@ I'm a passionate software developer with a focus on **C++**, **DSA**, **JAVA**, 
 ### 1. [Room Allotment and Booking System (CLI) – C++ Project](https://github.com/sachinlokhande4154/RoomBookingSystem)
 A dynamic room allotment and booking system using advanced data structures like hash maps and priority queues. Includes VIP waitlist management and cancellation handling.
 
-> **Tech Stack:** C++, STL, DSA (vector, unorered map,Priority Queue, Hash Map), windows CLI(command prompt), Visual Studio
+> **Tech Stack:** C++, STL, DSA (vector, unorered map), windows CLI(command prompt), Visual Studio
 
 ---
 
