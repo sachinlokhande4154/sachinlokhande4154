@@ -11,6 +11,11 @@ A dynamic room allotment and booking system using advanced data structures like 
 
 > **Tech Stack:** C++, STL, DSA (vector, unorered map), windows CLI(command prompt), Visual Studio
 
+### 2. 📚 Library Management System (C++)(https://github.com/sachinlokhande4154/LibraryManagementSystem_CPP)
+A full-featured CLI system built in C++ to manage book allotments and borrow/return logic using advanced DSA.
+
+> **Tech Stack:** C++, STL, DSA (vector, unorered map), windows CLI(command prompt), Visual Studio
+
 ---
 
 ## 📫 Contact Me
