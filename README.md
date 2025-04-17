@@ -6,7 +6,7 @@ I'm a passionate software developer with a focus on **C++**, **DSA**, **JAVA** a
 
 ## 🚀 Projects
 
-### 1. [Room Booking System (C++)](https://github.com/sachinlokhande4154/room-booking-system)
+### 1. [Room Booking System (C++)](https://github.com/sachinlokhande4154/RoomBookingSystem)
 A dynamic room allotment and booking system using advanced data structures like hash maps and priority queues. Includes VIP waitlist management and cancellation handling.
 
 > **Tech Stack:** C++, STL, DSA (Priority Queue, Hash Map)
