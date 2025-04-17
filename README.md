@@ -33,8 +33,8 @@
 ---
 
 ## 📬 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sachin-lokhande-49a690193)
-- 💻 [GitHub](https://github.com/sachinlokhande4154)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/sachin-lokhande-49a690193)
+- 💻 GitHub: (https://github.com/sachinlokhande4154)
 - 📧 Email: **sachinlokhande4154@gmail.com**
   
 ---
